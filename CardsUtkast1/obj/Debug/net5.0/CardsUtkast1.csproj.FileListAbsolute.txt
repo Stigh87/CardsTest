@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\CardsUtkast1.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\CardsUtkast1.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\CardsUtkast1.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\CardsUtkast1.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\CardsUtkast1.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\ref\CardsUtkast1.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\bin\Debug\net5.0\CardsUtkast1.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\ref\CardsUtkast1.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\Cards\CardsUtkast1\CardsUtkast1\obj\Debug\net5.0\CardsUtkast1.genruntimeconfig.cache
